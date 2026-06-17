@@ -1,0 +1,141 @@
+rank,company_name,city,postcode_district,primary_sector,university_affiliation,total_raised_gbp,founder_names,filter_result,ip_score,founder_score,funding_score,poc_score,sector_score,final_score
+1,TheraSeq Therapeutics,Oxford,OX4,Drug Discovery & Therapeutics,University of Oxford,112000,Emily Novak,Pass — Female Founder Override,10,10,10,8,10,97.0
+2,OrthoScan Dx,Hertford,SG13,Medical Devices & Diagnostics,University College London,526000,Sian MacLeod,Pass — Female Founder Override,8,10,10,10,10,94.0
+3,AlgoLayer Labs,Sheffield,S10,Machine Learning & AI,University of Glasgow,562000,Niamh Kumar; George Brown,Pass — Outside GT,10,7,10,10,10,92.5
+4,NanoForm Engineering,Edinburgh,EH9,Materials Science & Engineering,University of Sheffield,571000,Ethan O'Connor; Charlotte O'Connor,Pass — Outside GT,10,7,10,10,8,90.5
+5,EcoGen Energy,Exeter,EX4,Renewable Energy & Storage,University of Bath,313000,Ethan Williams; Oliver Kumar; Grace Campbell,Pass — Outside GT,10,7,10,10,8,90.5
+6,HydroFlow Clean,Reading,RG1,Renewable Energy & Storage,Imperial College London,452000,William Patel; Brendan Sharma; Aisha McCarthy; Alexander Ali,Pass — Female Founder Override,10,10,10,5,8,90.5
+7,TheraForge Rx,Sheffield,S3,Drug Discovery & Therapeutics,University of Southampton,743000,Harry O'Brien; Ananya Taylor,Pass — Outside GT,10,7,10,8,10,89.5
+8,CogniInfer NLP,Southampton,SO17,Natural Language Processing,University of Leicester,635000,Wei Johansson; Rishi Ali,Pass — Outside GT,10,7,10,8,10,89.5
+9,CogniFlow Intelligence,Cardiff,CF24,Machine Learning & AI,University of Bristol,314000,Rohan MacLeod; Patrick Müller; Omar Smith,Pass — Outside GT,10,7,10,7,10,88.0
+10,NeuroForge Sciences,London,E1,Drug Discovery & Therapeutics,University of Oxford,635000,Olivia Wang; James MacLeod,Pass — Female Founder Override,10,10,10,2,10,88.0
+11,RetinaLens Vision,Glasgow,G1,Computer Vision,University of Bath,483000,Patrick Brown,Pass — Outside GT,8,7,10,10,10,86.5
+12,OncoPulse Dx,Liverpool,L69,Medical Devices & Diagnostics,University of Liverpool,530000,James Smith; Tariq Zhang,Pass — Outside GT,8,7,10,10,10,86.5
+13,KineticWorks Automation,Leeds,LS6,Robotics & Automation,University of Bristol,198000,Samuel Nielsen; Nadia Kowalski; George Johansson,Pass — Outside GT,10,7,10,5,10,85.0
+14,PlanckEdge Technologies,Leicester,LE1,Quantum Computing,University of Southampton,276000,Jack Sharma; Chloe Brown,Pass — Outside GT,10,7,10,5,10,85.0
+15,LatticeEdge Sciences,Guildford,GU2,Quantum Computing,Imperial College London,722000,Kai Nielsen; Oliver Liu; Thomas Zhang; Shreya Nielsen,Pass — Female Founder Override,6,10,10,8,10,85.0
+16,DermPulse Dx,Newcastle,NE1,Medical Devices & Diagnostics,University of Bristol,925000,Alexander Williams; Fraser O'Brien,Pass — Outside GT,10,7,6,10,10,84.5
+17,NanoEdge Semiconductors,Guildford,GU1,Photonics & Semiconductors,London School of Economics,261000,Daniel Ahmed; Zara McCarthy,Pass — Female Founder Override,8,10,10,3,10,83.5
+18,PulmoAid Medical,Cardiff,CF10,Medical Devices & Diagnostics,,393000,George Kowalski; Omar Ahmed; Vikram Ali; Ethan O'Connor,Pass — Outside GT,10,5,10,7,10,83.0
+19,CellCraft Sciences,Manchester,M15,Genomics & Synthetic Biology,University of Exeter,50000,Jian Liu,Pass — Outside GT,10,7,10,5,8,83.0
+20,CardioDiagnostics Health,Edinburgh,EH14,Medical Devices & Diagnostics,Heriot-Watt University,532000,Jack Liu; Jack Ali; Patrick Davies,Pass — Outside GT,8,7,10,7,10,82.0
+21,NeuroTrack Medical,Southampton,SO14,Medical Devices & Diagnostics,University of Sheffield,441000,Anika Ali; Arjun Fitzgerald,Pass — Outside GT,10,7,10,3,10,82.0
+22,AlgoSpark AI,Leeds,LS1,Machine Learning & AI,University of Warwick,50000,Rahul Chen; Vikram Ahmed; Patrick Ali,Pass — Outside GT,10,7,10,3,10,82.0
+23,AutoArm Labs,Nottingham,NG7,Robotics & Automation,Durham University,788000,Omar Walsh; Bridget O'Brien; Leila McCarthy,Pass — Outside GT,10,7,6,8,10,81.5
+24,AlgoNode Platform,London,E1,Machine Learning & AI,London School of Economics,553000,Laura Johansson; Thomas Nielsen; Samuel O'Brien,Pass — Female Founder Override,6,10,10,5,10,80.5
+25,NeuroEdit Rx,Bristol,BS1,Drug Discovery & Therapeutics,Heriot-Watt University,528000,Fraser Novak; Jack Williams; Tariq Chen,Pass — Outside GT,10,7,10,2,10,80.5
+26,SigmaLens AI,Hertford,SG14,Machine Learning & AI,Imperial College London,85000,Hannah Kumar,Pass — Female Founder Override,6,10,10,5,10,80.5
+27,DermSense Devices,Sheffield,S10,Medical Devices & Diagnostics,,739000,James Walsh; Matthew Müller,Pass — Outside GT,10,5,10,5,10,80.0
+28,LumenFrame Labs,Reading,RG2,Computer Vision,,340000,Samuel Davies; Thomas Brown; Arjun Murphy; Mei Khan,Pass — Female Founder Override,10,5,10,5,10,80.0
+29,CrisprCraft Therapeutics,Cardiff,CF10,Genomics & Synthetic Biology,Durham University,870000,George Zhang; George Liu,Pass — Outside GT,10,7,6,8,8,79.5
+30,OculoTrack Dx,Bath,BA2,Medical Devices & Diagnostics,University of Exeter,697000,Thomas Ali,Pass — Outside GT,8,7,10,5,10,79.0
+31,SeqEdit Genomics,London,N1,Genomics & Synthetic Biology,Imperial College London,1946000,Sarah Evans; Amelia Murphy,Pass — Female Founder Override,10,10,2,8,8,79.0
+32,CogniText Tech,Reading,RG1,Natural Language Processing,King's College London,490000,Sarah Müller; Alexander Kumar; Jack Jones,Pass — Female Founder Override,4,10,10,8,10,79.0
+33,InferoSpark Platform,Nottingham,NG1,Machine Learning & AI,,731000,Oliver Singh,Pass — Outside GT,10,3,10,7,10,78.0
+34,MitoForm Bio,Glasgow,G12,Biotechnology,Cardiff University,910000,Jack Kowalski; Aoife Khan; William Singh,Pass — Outside GT,10,7,6,7,8,78.0
+35,KineticMotion Systems,Cardiff,CF10,Robotics & Automation,University of Southampton,224000,Samuel Ahmed; Ethan Kumar; Lucas Kumar,Pass — Outside GT,10,7,10,0,10,77.5
+36,ActivDrive Robotics,Leicester,LE1,Robotics & Automation,University of Sheffield,577000,Patrick Williams,Pass — Outside GT,10,7,10,0,10,77.5
+37,LexisFlow Tech,London,SE1,Natural Language Processing,University of Cambridge,18000,Yasmin O'Brien; Patrick Wang; Rahul Campbell; Elena Ahmed,Pass — Female Founder Override,10,10,4,3,10,77.5
+38,InferoSpark AI,Hertford,SG13,Machine Learning & AI,,510000,Daniel Campbell; Wei Kowalski,Pass — Female Founder Override,8,5,10,7,10,77.0
+39,CrisprFlux Genomics,Hertford,SG13,Genomics & Synthetic Biology,Imperial College London,591000,Niamh Liu; Lucas Campbell; James Jones,Pass — Female Founder Override,8,10,10,0,8,77.0
+40,MechArm Robotics,Leeds,LS1,Robotics & Automation,University of Southampton,922000,Lucas Taylor; Patrick Brown; Declan Brown,Pass — Outside GT,10,7,6,5,10,77.0
+41,LexisText NLP,Leeds,LS1,Natural Language Processing,University of Leeds,1269000,Vikram Johansson,Pass — Outside GT,10,7,2,10,10,76.5
+42,OncoEdit Pharma,Sheffield,S1,Drug Discovery & Therapeutics,University of Nottingham,234000,Yasmin Nielsen; Jian Zhang; Oliver McCarthy,Pass — Outside GT,8,7,10,3,10,76.0
+43,LatticeForge Sciences,Exeter,EX1,Quantum Computing,Cardiff University,944000,George Evans; Ethan Ahmed; Samuel Taylor; Sarah Müller,Pass — Outside GT,8,7,6,8,10,75.5
+44,NanoCraft Engineering,Leeds,LS6,Materials Science & Engineering,University of Birmingham,315000,Fraser Patel; Omar McCarthy,Pass — Outside GT,10,7,10,0,8,75.5
+45,CompositeForm Sciences,Cambridge,CB1,Materials Science & Engineering,University of Cambridge,1774000,Tariq Liu; Niamh Ahmed; Aisha O'Brien; Tariq Smith,Pass — Female Founder Override,10,10,2,5,8,74.5
+46,PhotonBeam Labs,Oxford,OX3,Photonics & Semiconductors,London School of Economics,12000,Patrick Davies; Ananya Campbell; Grace Smith,Pass — Female Founder Override,8,10,4,5,10,74.5
+47,LumexFlux Systems,Edinburgh,EH9,Photonics & Semiconductors,,126000,Jack Evans; Callum Zhang,Pass — Outside GT,8,5,10,5,10,74.0
+48,BioPath Rx,Manchester,M2,Drug Discovery & Therapeutics,University of Bath,30000,Conor Kowalski; Samuel Novak,Pass — Outside GT,10,7,4,5,10,73.0
+49,NeuroBridge Rx,Newcastle,NE4,Drug Discovery & Therapeutics,University of Southampton,47000,Harry Novak; Oliver Brown; Harry Kumar; Olivia O'Brien,Pass — Outside GT,10,7,4,5,10,73.0
+50,QubitShift Systems,Bath,BA2,Quantum Computing,University of Sheffield,714000,William Khan; Alexander MacLeod,Pass — Outside GT,6,7,10,5,10,73.0
+51,CarbonNet CleanTech,Leeds,LS1,Carbon Capture & Climate Tech,University of Leeds,486000,Angus Kowalski; Liam Patel,Pass — Outside GT,4,7,10,10,8,72.5
+52,SyntaxParse AI,Nottingham,NG1,Natural Language Processing,University of Liverpool,584000,Angus Taylor; Fatima Murphy,Pass — Outside GT,4,7,10,8,10,71.5
+53,BioFlux Research,Hertford,SG14,Biotechnology,University of Oxford,15000,Shreya Patel; Oliver Patel,Pass — Female Founder Override,10,10,4,0,8,71.0
+54,PharmoSeq Bio,Reading,RG2,Drug Discovery & Therapeutics,,342000,Sophie Brown,Pass — Female Founder Override,10,3,10,2,10,70.5
+55,ServoForge Systems,Newcastle,NE2,Robotics & Automation,Newcastle University,180000,Jack Müller; Declan Ahmed,Pass — Outside GT,6,7,10,3,10,70.0
+56,SolarHarvest Systems,Oxford,OX3,Renewable Energy & Storage,Imperial College London,42000,Ethan Campbell; Olivia O'Connor; Rohan Ahmed,Pass — Female Founder Override,8,10,4,3,8,69.5
+57,OpsBase Systems,Leicester,LE2,SaaS / Enterprise Software,University of Leeds,380000,Arjun Chen; Kai Brown,Pass — Outside GT,4,7,10,10,5,69.5
+58,NeuroSense Devices,Cambridge,CB1,Medical Devices & Diagnostics,,137000,Niamh Williams; Rahul McCarthy; Omar MacLeod; Charlotte Ahmed,Pass — Female Founder Override,8,5,10,2,10,69.5
+59,PulmoDiagnostics Technologies,Liverpool,L1,Medical Devices & Diagnostics,University of Edinburgh,1473000,Jian Liu; Yasmin O'Connor,Pass — Outside GT,10,7,2,5,10,69.0
+60,SolarStore Clean,Manchester,M1,Renewable Energy & Storage,University of Manchester,817000,Arjun Davies; Lucas Liu,Pass — Outside GT,8,7,6,5,8,69.0
+61,NanoForge Technologies,London,SW7,Materials Science & Engineering,,104000,Mei Sharma; Callum Zhang; Harry Patel,Pass — Female Founder Override,8,5,10,3,8,69.0
+62,LatticeForge Labs,Nottingham,NG1,Materials Science & Engineering,University of Liverpool,765000,Ananya Johansson; Kai Liu,Pass — Outside GT,8,7,6,5,8,69.0
+63,LumenFrame Vision,Birmingham,B4,Computer Vision,Heriot-Watt University,2228000,Rishi Sharma; Chloe Kowalski,Pass — Outside GT,10,7,2,5,10,69.0
+64,SigmaLayer AI,Cardiff,CF24,Machine Learning & AI,University of Southampton,394000,Jack Wang; Liam Murphy; Brendan Sharma,Pass — Outside GT,6,7,10,2,10,68.5
+65,SpectraCore Semiconductors,Leicester,LE2,Photonics & Semiconductors,University of Warwick,18000,Daniel Ali; Fraser Nielsen; Vikram Taylor,Pass — Outside GT,10,7,4,2,10,68.5
+66,PulmoTrack Dx,Birmingham,B15,Medical Devices & Diagnostics,University of Sheffield,782000,Mohammed O'Connor; Brendan Chen; Matthew O'Brien,Pass — Outside GT,8,7,6,3,10,68.0
+67,NexusWorks Software,Edinburgh,EH14,SaaS / Enterprise Software,,544000,Tariq Evans; Samuel Novak,Pass — Outside GT,10,5,10,0,5,67.5
+68,QubitEdge Systems,Edinburgh,EH9,Quantum Computing,,451000,Conor Khan,Pass — Outside GT,10,3,10,0,10,67.5
+69,EigenShift Systems,Southampton,SO14,Quantum Computing,,996000,Elena Nielsen; Omar MacLeod; Rishi Kowalski,Pass — Outside GT,10,5,6,2,10,67.5
+70,HelixFlux Therapeutics,Sheffield,S1,Genomics & Synthetic Biology,University of Birmingham,243000,Kai Kowalski; Hannah Chen,Pass — Outside GT,6,7,10,2,8,66.5
+71,DermDiagnostics Dx,Newcastle,NE2,Medical Devices & Diagnostics,,94000,Sarah Kumar; Harry Taylor,Pass — Outside GT,8,5,10,0,10,66.5
+72,HelixEdit Biotech,Cambridge,CB2,Genomics & Synthetic Biology,London School of Economics,568000,Sophie Chen,Pass — Female Founder Override,2,10,10,5,8,66.5
+73,PhoxonBeam Systems,Reading,RG2,Photonics & Semiconductors,University College London,328000,Nadia Smith,Pass — Female Founder Override,2,10,10,3,10,65.5
+74,MechDrive Robotics,Nottingham,NG7,Robotics & Automation,University of Sheffield,45000,Daniel O'Connor; Daniel Evans; Arjun Singh,Pass — Outside GT,10,7,4,0,10,65.5
+75,ActivArm Robotics,Liverpool,L69,Robotics & Automation,University of Liverpool,440000,Alexander Evans; Patrick Liu,Pass — Outside GT,2,7,10,8,10,65.5
+76,SkillQuest Education,Edinburgh,EH8,EdTech,University of Leicester,1276000,Lucas Kumar; Fraser McCarthy; Fraser Novak,Pass — Outside GT,10,7,2,8,2,65.5
+77,TerraGen Systems,Leeds,LS6,Renewable Energy & Storage,University of Sheffield,104000,Wei Patel; George Kowalski; Sian Khan,Pass — Outside GT,4,7,10,5,8,65.0
+78,OpsDesk Systems,Edinburgh,EH9,SaaS / Enterprise Software,University of Bristol,356000,Alexander Jones; Kai Müller,Pass — Outside GT,4,7,10,7,5,65.0
+79,CarbonShift Climate,Leeds,LS1,Carbon Capture & Climate Tech,,752000,Leila Zhang,Pass — Outside GT,10,3,6,5,8,65.0
+80,ActivDrive Automation,Leeds,LS2,Robotics & Automation,University of Edinburgh,781000,William Taylor; Lucas Singh; Chloe Zhang,Pass — Outside GT,6,7,6,5,10,65.0
+81,OrthoAid Medical,Southampton,SO17,Medical Devices & Diagnostics,,777000,Mei Chen; Fraser Walsh,Pass — Outside GT,10,5,6,0,10,64.5
+82,SemanticFlow Tech,Bath,BA2,Natural Language Processing,University of Warwick,240000,Fatima Kowalski; Angus Williams,Pass — Outside GT,4,7,10,3,10,64.0
+83,CropYield Labs,Hertford,SG14,Agricultural Technology,,519000,Sarah O'Connor; William McCarthy; Omar Kumar,Pass — Female Founder Override,6,5,10,5,5,63.0
+84,HelixCode Therapeutics,Birmingham,B15,Genomics & Synthetic Biology,University of Nottingham,1682000,Kai O'Brien; Rishi Ali; Conor Chen,Pass — Outside GT,6,7,2,10,8,62.5
+85,CogniMind Analytics,Glasgow,G1,Machine Learning & AI,,2356000,Ethan Chen,Pass — Outside GT,10,3,2,7,10,62.0
+86,CrisprFlux Therapeutics,Cardiff,CF10,Genomics & Synthetic Biology,University of Leicester,44000,James Novak; Brendan Patel,Pass — Outside GT,8,7,4,3,8,62.0
+87,AgriTrack Labs,Glasgow,G1,Agricultural Technology,,1526000,Arjun Murphy; Fraser O'Connor,Pass — Outside GT,10,5,2,7,5,62.0
+88,LinguaParse Tech,Hertford,SG13,Natural Language Processing,,791000,Brendan Campbell; Megan Campbell,Pass — Female Founder Override,4,5,6,10,10,61.5
+89,ImmunoEdit Therapeutics,Nottingham,NG1,Drug Discovery & Therapeutics,,35000,Jack Patel; George Taylor; Sian McCarthy; Laura Davies,Pass — Outside GT,10,5,4,0,10,60.5
+90,ImmunoSeq Bio,Bath,BA1,Drug Discovery & Therapeutics,,305000,Ethan Patel; Vikram Campbell,Pass — Outside GT,6,5,10,0,10,60.5
+91,OncoDiagnostics Devices,Hertford,SG13,Medical Devices & Diagnostics,,37000,Lucas Ahmed; Jian Nielsen; Matthew Patel; Megan Taylor,Pass — Female Founder Override,10,5,4,0,10,60.5
+92,KineticArm Systems,Bristol,BS2,Robotics & Automation,Durham University,958000,Laura Brown,Pass — Outside GT,2,7,6,10,10,60.5
+93,HelixCode Bio,Birmingham,B2,Genomics & Synthetic Biology,University of Edinburgh,45000,Thomas MacLeod; Brendan MacLeod; Oliver Smith,Pass — Outside GT,8,7,4,2,8,60.5
+94,CardioTrack Medical,Leicester,LE1,Medical Devices & Diagnostics,,143000,Leila Fitzgerald; Tariq Johansson; Brendan Brown,Pass — Outside GT,6,5,10,0,10,60.5
+95,CogniSpark Platform,Reading,RG1,Machine Learning & AI,,578000,Ethan Khan; Jian Walsh; Niamh Taylor,Pass — Female Founder Override,6,5,10,0,10,60.5
+96,LexisText Tech,Cardiff,CF10,Natural Language Processing,University of Southampton,634000,Ethan O'Brien; William Walsh,Pass — Outside GT,4,7,10,0,10,59.5
+97,VividPoint Digital,Liverpool,L1,Consumer Technology,University of Bristol,118000,Matthew Singh,Pass — Outside GT,4,7,10,5,2,59.0
+98,SoilSense Farming,Manchester,M2,Agricultural Technology,University of Birmingham,676000,Harry Ahmed; Ethan Sharma,Pass — Outside GT,4,7,10,3,5,59.0
+99,OncoEdit Therapeutics,Cardiff,CF24,Drug Discovery & Therapeutics,University of Birmingham,34000,Ethan Jones; Charlotte MacLeod,Pass — Outside GT,6,7,4,3,10,58.0
+100,NanoCraft Materials,Oxford,OX3,Materials Science & Engineering,Imperial College London,1908000,Liam Walsh; Lucas Davies; Sophie Brown,Pass — Female Founder Override,6,10,2,2,8,58.0
+101,MechMotion Robotics,Southampton,SO17,Robotics & Automation,Cardiff University,62000,Daniel Chen; Lucas Novak,Pass — Outside GT,2,7,10,2,10,56.5
+102,LatticeCore Computing,Liverpool,L1,Quantum Computing,,253000,Zara Nielsen; Lucas Khan,Pass — Outside GT,2,5,10,5,10,56.0
+103,PhotonEdge Labs,Leeds,LS2,Photonics & Semiconductors,,1874000,Omar Fitzgerald,Pass — Outside GT,8,3,2,7,10,56.0
+104,NexusDesk Platform,Cardiff,CF24,SaaS / Enterprise Software,,88000,Rishi Müller; Ethan Taylor; Olivia Smith,Pass — Outside GT,6,5,10,0,5,55.5
+105,EcoFlux Renewables,Liverpool,L69,Renewable Energy & Storage,,315000,Kai Johansson; Sian Wang,Pass — Outside GT,4,5,10,2,8,55.5
+106,PixelEye Labs,Nottingham,NG1,Computer Vision,,634000,Wei Liu,Pass — Outside GT,6,3,10,0,10,55.5
+107,NeuroPulse Dx,Guildford,GU1,Medical Devices & Diagnostics,,33000,Leila Kowalski; Anika Khan,Pass — Female Founder Override,8,5,4,0,10,54.5
+108,CellCraft Genomics,Bristol,BS1,Genomics & Synthetic Biology,Heriot-Watt University,697000,Yasmin Wang; Jian Kumar,Pass — Outside GT,2,7,10,2,8,54.5
+109,VisiView Labs,Newcastle,NE2,Computer Vision,Durham University,1358000,Rishi MacLeod,Pass — Outside GT,4,7,2,7,10,54.0
+110,RetinaLens AI,Bristol,BS1,Computer Vision,University of Bristol,25000,Angus Khan; Elena Patel,Pass — Outside GT,6,7,4,0,10,53.5
+111,CarbonCycle Solutions,Birmingham,B15,Carbon Capture & Climate Tech,University of Glasgow,35000,Tariq Chen; Fraser O'Connor; Matthew Jones; Omar Kowalski,Pass — Outside GT,6,7,4,0,8,51.5
+112,CarbonSave Technologies,Southampton,SO14,Carbon Capture & Climate Tech,Durham University,32000,Rishi Nielsen; Priya Williams,Pass — Outside GT,6,7,4,0,8,51.5
+113,NimbusSpace App,Oxford,OX2,Consumer Technology,Queen Mary University of London,965000,Emma Kowalski; Rhiannon O'Connor,Pass — Female Founder Override,4,10,6,0,2,51.0
+114,CogniNode Platform,London,N1,Machine Learning & AI,Queen Mary University of London,1162000,Aoife O'Brien; Angus Walsh; Rhiannon Smith,Pass — Female Founder Override,4,10,2,0,10,51.0
+115,ProteinForm Bio,Guildford,GU1,Biotechnology,University College London,36000,Alexander Kowalski; Laura Walsh; Harry Kumar,Pass — Female Founder Override,2,10,4,2,8,50.0
+116,StackSuite Systems,Newcastle,NE1,SaaS / Enterprise Software,,100000,Oliver Patel; George Smith,Pass — Outside GT,4,5,10,0,5,49.5
+117,ProteinFlux Research,Guildford,GU2,Biotechnology,,943000,Mohammed Jones; Declan Sharma; Emily Murphy,Pass — Female Founder Override,2,5,6,7,8,49.0
+118,FlowBase Systems,Leeds,LS2,SaaS / Enterprise Software,,783000,Matthew O'Connor; Kai MacLeod,Pass — Outside GT,4,5,6,5,5,49.0
+119,EigenBridge Systems,Reading,RG1,Quantum Computing,,174000,Priya O'Connor; Omar Campbell; Riya Zhang,Pass — Female Founder Override,2,5,10,0,10,48.5
+120,SynBridge Genomics,Nottingham,NG1,Genomics & Synthetic Biology,,2338000,Grace Liu; Rishi O'Connor,Pass — Outside GT,8,5,2,0,8,48.5
+121,NeuroPath Rx,Exeter,EX1,Drug Discovery & Therapeutics,,915000,Fraser Khan; Kai Jones,Pass — Outside GT,2,5,6,5,10,48.0
+122,LumenEye AI,Leeds,LS2,Computer Vision,University of Bristol,1078000,Sophie Campbell; Declan Smith; Rahul Brown; Harry Zhang,Pass — Outside GT,4,7,2,3,10,48.0
+123,ZeroCapture Solutions,London,WC2H,Carbon Capture & Climate Tech,,805000,Bridget Davies; George O'Brien,Pass — Female Founder Override,4,5,6,2,8,47.5
+124,SolarFlux Renewables,Leicester,LE2,Renewable Energy & Storage,University of Leicester,1732000,Tariq Novak; Bridget MacLeod,Pass — Outside GT,6,7,2,0,8,47.5
+125,VisiLens AI,Leeds,LS1,Computer Vision,University of Manchester,1587000,Rahul Liu; Fraser Murphy; Emily Patel; Mohammed Davies,Pass — Outside GT,4,7,2,2,10,46.5
+126,MaterialForm Labs,Newcastle,NE2,Materials Science & Engineering,,16000,Matthew Novak; Oliver Sharma,Pass — Outside GT,6,5,4,0,8,46.5
+127,PixelLens Systems,Cambridge,CB3,Computer Vision,,993000,Omar Zhang; Emily Jones,Pass — Female Founder Override,4,5,6,0,10,46.5
+128,ProteinForm Research,Manchester,M13,Biotechnology,University of Leeds,931000,Rohan Fitzgerald,Pass — Outside GT,2,7,6,2,8,46.5
+129,InferoSpark Labs,Bath,BA2,Machine Learning & AI,,21000,Matthew Kumar; George Liu,Pass — Outside GT,4,5,4,2,10,45.5
+130,VividSpace Tech,Leicester,LE1,Consumer Technology,Cardiff University,2354000,Ethan Kumar; Angus Novak,Pass — Outside GT,4,7,2,5,2,43.0
+131,ActivWorks Automation,Cambridge,CB4,Robotics & Automation,,2035000,Samuel O'Brien; Olivia Williams,Pass — Female Founder Override,2,5,2,7,10,43.0
+132,FlowBase Platform,Bristol,BS1,SaaS / Enterprise Software,University of Bath,22000,Alexander Singh; George Evans,Pass — Outside GT,4,7,4,0,5,42.5
+133,SyntaxInfer AI,Bath,BA1,Natural Language Processing,,772000,Tariq Wang,Pass — Outside GT,4,3,6,0,10,41.5
+134,HydroGen Renewables,Edinburgh,EH9,Renewable Energy & Storage,Durham University,2228000,Vikram Sharma; Fatima Liu; Matthew Murphy,Pass — Outside GT,4,7,2,0,8,41.5
+135,EcoStore Power,Bristol,BS8,Renewable Energy & Storage,,35000,Matthew Jones; Grace Evans; Jian O'Connor; Declan Patel,Pass — Outside GT,4,5,4,0,8,40.5
+136,CtrlWorks Platform,Birmingham,B4,SaaS / Enterprise Software,,1396000,George Wang,Pass — Outside GT,4,3,2,7,5,39.0
+137,OculoScan Dx,Guildford,GU2,Medical Devices & Diagnostics,,36000,Declan O'Brien; Zara Liu; James Jones; Rahul Brown,Pass — Female Founder Override,2,5,4,0,10,36.5
+138,EcoFlux Clean,Leeds,LS2,Renewable Energy & Storage,,12000,Arjun Brown,Pass — Outside GT,4,3,4,0,8,35.5
+139,MitoForm Research,Birmingham,B4,Biotechnology,,49000,Mohammed Smith; Declan Murphy,Pass — Outside GT,2,5,4,0,8,34.5
+140,FlowWorks Tech,Liverpool,L1,SaaS / Enterprise Software,,9000,Laura Jones; Mohammed Nielsen; Rahul Evans,Pass — Outside GT,4,5,1,2,5,34.5
